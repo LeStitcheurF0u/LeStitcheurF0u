@@ -4,17 +4,13 @@
 
 <h3>Qui suis-je ?</h2>
 
-<p>Je m'appelle Alexandre Harel. J'ai 28 ans. Localiser en Bretagne, je fais du développement web depuis quelques années en loisir.
+<p>Je m'appelle Alexandre Harel. Localiser en Bretagne, je fais du développement web depuis quelques années en loisir.
 J'ai intégré la formation DWWM (Développeur Web / Web Mobile) à l'AFPA de Brest le 04 avril 2022. Celle-ci dure jusqu'en décembre 2022.</p>
 
 <h3> Me Contacter:</h3>
 
 <h4>Portefolio<h4>
 <a href="https://www.mywebsoluce.fr"><img src="https://lestitcheurf0u.github.io/imgs/planet.svg"></a> 
-
-
-<h4>Linkedin<h4>
-<a href="https://www.linkedin.com/in/alexandre-harel-a82521175/"><img src="https://lestitcheurf0u.github.io/imgs/linkedin.svg" /></a>
 
 <h3>Mes Languages et outils:</h3>
 
