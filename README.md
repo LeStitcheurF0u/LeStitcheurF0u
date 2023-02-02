@@ -24,3 +24,5 @@ J'ai intégré la formation DWWM (Développeur Web / Web Mobile) à l'AFPA de Br
 <h3>Mes Stats Github</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeStitcheurF0u&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+  
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J8IE12T)
